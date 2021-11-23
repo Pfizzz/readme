@@ -1,4 +1,5 @@
 # OnlyBans
+![image](https://only-bans.herokuapp.com/static/media/onlybans.7dd6085c.png)
 
 ## The last true bastion of free speech, publishing everything from A-Q
 
