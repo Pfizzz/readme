@@ -29,8 +29,9 @@ OnlyBans was designed with the following stack:
 
 ## Installation
 
-Navigate to the directory where you want to create freedom. Clone git@github.com:zacktmiller92/only-bans.git. Once you realign your life and politics to the only-bans directory, install the application with "npm i"
-Bask in the opinions Big Internet has tried to hide.
+* Navigate to the directory where you want to create freedom. 
+* Clone git@github.com:zacktmiller92/only-bans.git. Once you realign your life and politics to the only-bans directory, install the application with "npm i"
+* Bask in the opinions Big Internet has tried to hide.
 
 ## Creators
 
