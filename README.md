@@ -11,7 +11,7 @@ Remember when America truly was great? Remember when the slightest objection to 
 
 ## What is OnlyBans?
 
-OnlyBans is a message board that allows a user to sign up, log in, and delete their posts. Although every member of OnlyBans is able to view messages across the site, only a user can delete their own. We don't believe in censorship here, and every opinion is valid.
+OnlyBans is a message board that allows a user to sign up, log in, create and delete their posts. Although every member of OnlyBans is able to view messages across the site, only a user can delete their own. We don't believe in censorship here, and every opinion is valid.
 
 ## Technologies
 
